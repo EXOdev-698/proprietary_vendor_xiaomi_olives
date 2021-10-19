@@ -141,7 +141,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/olives/proprietary/vendor/etc/camera/new_morpho_hht_params_sony_imx486_ii_cn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/new_morpho_hht_params_sony_imx486_ii_cn.xml \
     vendor/xiaomi/olives/proprietary/vendor/etc/camera/new_morpho_hht_params_sony_imx486_ii_gl.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/new_morpho_hht_params_sony_imx486_ii_gl.xml \
     vendor/xiaomi/olives/proprietary/vendor/etc/camera/new_morpho_hht_params_sony_imx486_ii_in.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/new_morpho_hht_params_sony_imx486_ii_in.xml \
-    vendor/xiaomi/olives/proprietary/vendor/etc/camera/new_vdclear_hht_params_omnivision_8856_i_cn..xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/new_vdclear_hht_params_omnivision_8856_i_cn..xml \
+    vendor/xiaomi/olives/proprietary/vendor/etc/camera/new_vdclear_hht_params_omnivision_8856_i_cn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/new_vdclear_hht_params_omnivision_8856_i_cn.xml \
     vendor/xiaomi/olives/proprietary/vendor/etc/camera/new_vdclear_hht_params_omnivision_8856_i_cn.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/new_vdclear_hht_params_omnivision_8856_i_cn.xml \
     vendor/xiaomi/olives/proprietary/vendor/etc/camera/new_vdclear_hht_params_omnivision_8856_i_gl.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/new_vdclear_hht_params_omnivision_8856_i_gl.xml \
     vendor/xiaomi/olives/proprietary/vendor/etc/camera/new_vdclear_hht_params_omnivision_8856_i_in.xml:$(TARGET_COPY_OUT_VENDOR)/etc/camera/new_vdclear_hht_params_omnivision_8856_i_in.xml \
